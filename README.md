@@ -1,1 +1,1 @@
-# Flipkart
+git config --system --unset credential.helper# Flipkart
