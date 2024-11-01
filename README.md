@@ -1,1 +1,1 @@
-git config --system --unset credential.helper# Flipkart
+This is clone of website as frontend
